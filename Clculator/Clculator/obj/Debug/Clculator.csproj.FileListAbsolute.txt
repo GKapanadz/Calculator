@@ -1,0 +1,10 @@
+C:\Users\Giorgi\Desktop\Clculator\Clculator\bin\Debug\Clculator.exe.config
+C:\Users\Giorgi\Desktop\Clculator\Clculator\bin\Debug\Clculator.exe
+C:\Users\Giorgi\Desktop\Clculator\Clculator\bin\Debug\Clculator.pdb
+C:\Users\Giorgi\Desktop\Clculator\Clculator\obj\Debug\Clculator.csproj.AssemblyReference.cache
+C:\Users\Giorgi\Desktop\Clculator\Clculator\obj\Debug\Clculator.Form1.resources
+C:\Users\Giorgi\Desktop\Clculator\Clculator\obj\Debug\Clculator.Properties.Resources.resources
+C:\Users\Giorgi\Desktop\Clculator\Clculator\obj\Debug\Clculator.csproj.GenerateResource.cache
+C:\Users\Giorgi\Desktop\Clculator\Clculator\obj\Debug\Clculator.csproj.CoreCompileInputs.cache
+C:\Users\Giorgi\Desktop\Clculator\Clculator\obj\Debug\Clculator.exe
+C:\Users\Giorgi\Desktop\Clculator\Clculator\obj\Debug\Clculator.pdb
